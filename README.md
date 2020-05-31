@@ -1,5 +1,7 @@
 # chat
 
+For run this aplication clone the repository, create a data base in firebase and add the settings in firebase.js
+
 ## Project setup
 ```
 npm install
